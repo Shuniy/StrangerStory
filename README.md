@@ -1,5 +1,7 @@
 # Stranger Story 🤔
 
+### A choice app with boring story.
+
 ![Screenshot3](images/1.png)
 
 ![Screenshot3](images/2.png)

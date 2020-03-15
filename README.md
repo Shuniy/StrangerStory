@@ -1,3 +1,11 @@
 # Stranger Story 🤔
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/Destini.gif)
+![Screenshot3](images/1.png)
+
+![Screenshot3](images/2.png)
+
+![Screenshot3](images/3.png)
+
+![Screenshot3](images/4.png)
+
+![Screenshot3](images/5.png)
